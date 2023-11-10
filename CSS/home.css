@@ -1,0 +1,42 @@
+.h_name{
+    font-size: 100px;
+    color: tomato;
+    filter: drop-shadow(0 0 20px #fec53f);
+    text-align: center;
+    font-family: 'Agbalumo','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+
+}
+.h_name img{
+    width: 150px;
+}
+.tag_l{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bolder;
+    font-family: 'Edu TAS Beginner','Agbalumo','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    filter: drop-shadow(0 0 20px #c78c01);
+}
+/* footer img{
+    display: inline-block;
+    border-radius: 20px;
+    width: 500px;
+    padding: 62px;
+} */
+footer img{
+    display: inline;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 0px 62px;
+    /* margin: 40px 60px; */
+}
+.more{
+    color: rgb(255, 97, 69);
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0px;
+    font-weight: bold;
+    font-family: 'Edu TAS Beginner','Agbalumo','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Edu+TAS+Beginner:wght@400;500;600;700&family=Merriweather&family=Pixelify+Sans:wght@400;500&display=swap');
+.logo {
+    width: 70px;
+    float: left;
+}
+
+ul {
+    background-color: #fec53fad;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.name {
+    font-size: 38px;
+    font-weight: bold;
+    color: tomato;
+    margin-left: 10px;
+    /* font-family:'Edu TAS Beginner','Agbalumo','Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: 'Young Serif', 'Times New Roman', Times, serif;
+}
+
+header li {
+    display: inline-block;
+    background-color: #feb100;
+    box-shadow: 10px 5px 20px rgb(61, 13, 5);
+    color: black;
+    padding: 5px;
+    margin: 0px 10px;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li:hover {
+    display: inline-block;
+    background-color: #c06d01;
+    box-shadow: 10px 5px 20px rgb(109, 26, 11);
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    margin: 0px 10px;
+    margin-bottom: 20px;
+    min-width: 100px;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.Menu_Bar {
+    float: right;
+    padding-top: 12px;
+}

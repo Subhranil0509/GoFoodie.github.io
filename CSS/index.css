@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Edu+TAS+Beginner:wght@400;500;600;700&family=Merriweather&family=Pixelify+Sans:wght@400;500&display=swap');
+.Hadd{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    font-family: 'Edu TAS Beginner','Agbalumo','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    filter: drop-shadow(0 0 20px #fec53f);
+}
+
+.click{
+    width: 200px;
+    margin-left: 45%;
+}
+.h_name{
+    font-size: 120px;
+    color: tomato;
+    filter: drop-shadow(0 0 20px #fec53f);
+    text-align: center;
+    font-family: 'Agbalumo','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+
+}
+.h_name img{
+    width: 150px;
+}
